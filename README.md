@@ -84,6 +84,7 @@ $ newman run https://www.getpostman.com/collections/631643-f695cab7-6878-eb55-79
 For the complete list of options, refer the [Commandline Options](#commandline-options) section below.
 
 ![terminal-demo](https://raw.githubusercontent.com/postmanlabs/postmanlabs.github.io/develop/global-artefacts/newman-terminal.gif)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpriyalviroja%2Fnewman.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpriyalviroja%2Fnewman?ref=badge_shield)
 
 ### Using Newman as a NodeJS module
 
@@ -534,3 +535,6 @@ Sign in using your Postman account to participate in the discussions and don't f
 This software is licensed under Apache-2.0. Copyright Postdot Technologies, Inc. See the [LICENSE.md](LICENSE.md) file for more information.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-43979731-9/newman/readme)](https://www.getpostman.com)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpriyalviroja%2Fnewman.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpriyalviroja%2Fnewman?ref=badge_large)
